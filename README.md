@@ -55,7 +55,7 @@ payment methods, merchants, devices, banks, currencies and payment modes.
 
 ## Dashboard
 
-[Insert Dashboard Screenshot]
+<img width="1657" height="851" alt="Image" src="https://github.com/user-attachments/assets/ccc1cd09-f019-4924-b73e-9105056ed18d" />
 
 ## Business Recommendations
 
